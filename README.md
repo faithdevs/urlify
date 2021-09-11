@@ -1,4 +1,4 @@
-# Sleet url shortener task
+# Spleet url shortener task
 
 This project was developer with Nodejs, express and mongodb.
 
